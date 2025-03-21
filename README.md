@@ -1,7 +1,7 @@
 # Abstrakt Protocol Ecosystem 
 
 **Abstrakt Protocol** is a comprehensive, modular DeFi ecosystem designed to provide a full-stack Web3 experience. Built with **Solidity 0.8.22** and leveraging **Foundry** for development, the protocol integrates cutting-edge technologies like **ERC-4337 Account Abstraction, Chainlink VRF/Automation, and OpenZeppelin's governance frameworks**.
-This ecosystem is designed to be secure, scalable, and user-friendly, offering a suite of tools for decentralized finance, governance, NFTs, and cross-chain interoperability.
+This ecosystem is designed to be secure, scalable, and user-friendly, offering a suite of tools for decentralized finance, governance, NFTs, and cross-chain interoperability
 
 ## Table of Contents
 1. Overview
